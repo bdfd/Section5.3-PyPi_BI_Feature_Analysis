@@ -15,7 +15,7 @@ Ultimate Goal: Make Feature Engineering Analysis easy and fast as it should be.
 
 ## Installation
 
-`pip install fast-analysis`
+`pip install bifeatureanalysis`
 
 ## How to use it?
 
